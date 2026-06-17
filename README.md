@@ -4,19 +4,21 @@ A deep learning project that recognizes handwritten digits (0–9) using a Convo
 
 ## Features
 
-- CNN-based digit classification
-- 98%+ accuracy
-- TensorFlow/Keras implementation
-- Model evaluation and visualization
-- Ready for Flask deployment
+* CNN-based digit classification
+* 98%+ accuracy
+* TensorFlow/Keras implementation
+* Model evaluation and visualization
+* Ready for Flask deployment
 
 ## Tech Stack
 
-- Python
-- TensorFlow
-- NumPy
-- Matplotlib
-- Scikit-learn
+* Python
+* TensorFlow
+* NumPy
+* Matplotlib
+* Scikit-learn
+* Flask
+* JavaScript
 
 ## Results
 
@@ -24,11 +26,9 @@ Test Accuracy: 98%+
 
 ## Future Improvements
 
-- Flask API
-- Interactive drawing canvas
-- Cloud deployment
+* Interactive drawing canvas
+* Cloud deployment
 
 ## Author
 
-Nandini Phartyal# handwritten-digit-recognizer
-Handwritten Digit Recognition using CNN, TensorFlow, Flask and JavaScript
+Nandini Phartyal
