@@ -30,5 +30,5 @@ Test Accuracy: 98%+
 
 ## Author
 
-Your Name# handwritten-digit-recognizer
+Nandini Phartyal# handwritten-digit-recognizer
 Handwritten Digit Recognition using CNN, TensorFlow, Flask and JavaScript
